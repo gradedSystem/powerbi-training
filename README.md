@@ -8,10 +8,10 @@
 ## **Daily Plan & Checklist**
 
 ### **Day 1: Power BI Introduction & Setup**
-- [ ] Install **Power BI Desktop** (https://powerbi.microsoft.com/en-us/desktop/)
-- [ ] Watch **Power BI Intro** (https://learn.microsoft.com/en-us/power-bi/)
-- [ ] Explore Power BI **Interface & Basic Navigation**
-- [ ] Import **sample data** (Excel, CSV, Web)
+- [x] Install **Power BI Desktop** (https://powerbi.microsoft.com/en-us/desktop/)
+- [x] Watch **Power BI Intro** (https://learn.microsoft.com/en-us/power-bi/)
+- [x] Explore Power BI **Interface & Basic Navigation**
+- [x] Import **sample data** (Excel, CSV, Web)
 
 ### **Day 2: Data Preparation & Power Query**
 - [ ] Learn **Power Query Basics** (Cleaning & Transforming Data)

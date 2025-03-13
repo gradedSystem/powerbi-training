@@ -7,13 +7,13 @@
 
 ## **Daily Plan & Checklist**
 
-### **Day 1: Power BI Introduction & Setup**
+### **Day 1: Power BI Introduction & Setup**✅
 - [x] Install **Power BI Desktop** (https://powerbi.microsoft.com/en-us/desktop/)
 - [x] Watch **Power BI Intro** (https://learn.microsoft.com/en-us/power-bi/)
 - [x] Explore Power BI **Interface & Basic Navigation**
 - [x] Import **sample data** (Excel, CSV, Web)
 
-### **Day 2: Data Preparation & Power Query**
+### **Day 2: Data Preparation & Power Query**✅
 - [x] Learn **Power Query Basics** (Cleaning & Transforming Data)
 - [x] Practice **Merging & Splitting Columns**
 - [x] Handle **Missing Data & Duplicates**
@@ -56,21 +56,6 @@
 - [ ] Review Weak Areas & Practice More DAX
 - [ ] Final Hands-on Project (Build a Complete Dashboard)
 - [ ] Schedule PL-300 Exam (Optional)
-
----
-
-## **Gantt Chart Representation**
-```plaintext
-Day 1  | ████
-Day 2  | ████
-Day 3  | ████
-Day 4  | ████
-Day 5  | ████
-Day 6  | ████
-Day 7  | ████
-Day 8  | ████
-Day 9  | ████
-```
 
 ---
 **✅ Mark each task as completed daily!**

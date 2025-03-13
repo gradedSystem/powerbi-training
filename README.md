@@ -14,10 +14,10 @@
 - [x] Import **sample data** (Excel, CSV, Web)
 
 ### **Day 2: Data Preparation & Power Query**
-- [ ] Learn **Power Query Basics** (Cleaning & Transforming Data)
-- [ ] Practice **Merging & Splitting Columns**
-- [ ] Handle **Missing Data & Duplicates**
-- [ ] Save & Apply Transformations
+- [x] Learn **Power Query Basics** (Cleaning & Transforming Data)
+- [x] Practice **Merging & Splitting Columns**
+- [x] Handle **Missing Data & Duplicates**
+- [x] Save & Apply Transformations
 
 ### **Day 3: Data Modeling & Relationships**
 - [ ] Understand **Star Schema vs. Snowflake Schema**
